@@ -1,0 +1,8 @@
+site_name: University of Arizona, College of Medicine - Tucson
+
+pages:
+  - Overview: 'index.md'
+  - Current Projects: 'projects.md'
+  - Future Projects: 'future.md'
+
+theme: readthedocs
